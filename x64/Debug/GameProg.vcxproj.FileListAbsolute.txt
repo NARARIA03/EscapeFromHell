@@ -1,1 +1,2 @@
 C:\Users\hyunseong\Desktop\Cproject\x64\Debug\GameProg.exe
+C:\Users\hyunseong\Desktop\Cprojcet\x64\Debug\GameProg.exe

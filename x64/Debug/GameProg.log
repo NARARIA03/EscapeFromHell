@@ -1,39 +1,39 @@
 ﻿  game2.cpp
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxCompileConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxDataType.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxCompileConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxDataTypeWin.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxCompileConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxDataTypeWin.h(539,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(501,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(979,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(1602,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxFunctionWin.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxFunctionWin.h(204,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(2069,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(2327,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(2496,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(2644,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(2819,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(3003,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(3230,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(3401,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(3562,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(4070,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(4301,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(4489,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(4711,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\DxLib\DxLib.h(4888,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(648,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(648,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(696,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(697,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(702,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(703,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(708,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(709,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(714,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(715,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\hyunseong\Desktop\Cproject\game2.cpp(800,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  GameProg.vcxproj -> C:\Users\hyunseong\Desktop\Cproject\x64\Debug\GameProg.exe
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxCompileConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxDataType.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxCompileConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxDataTypeWin.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxCompileConfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxDataTypeWin.h(539,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(501,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(979,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(1602,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxFunctionWin.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxFunctionWin.h(204,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(2069,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(2327,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(2496,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(2644,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(2819,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(3003,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(3230,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(3401,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(3562,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(4070,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(4301,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(4489,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(4711,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\DxLib\DxLib.h(4888,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(648,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(648,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(696,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(697,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(702,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(703,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(708,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(709,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(714,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(715,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hyunseong\Desktop\Cprojcet\game2.cpp(801,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameProg.vcxproj -> C:\Users\hyunseong\Desktop\Cprojcet\x64\Debug\GameProg.exe

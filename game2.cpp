@@ -797,6 +797,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	character.CharDesign = 0;														//  캐릭터 기본 방향 0으로 설정
 	LoadDivGraph("Image\\heart.png", 3, 3, 1, 32, 32, character.Heart);             //  체력 아이콘 저장
 	LoadDivGraph("Image\\bullet.png", 16, 4, 4, 32, 32, character.Bullet);          //  총알 이미지 저장
+	
 	srand(time(NULL));																//	몬스터 소환 시마다 위치가 랜덤이 되도록, 게임 실행 시마다 보스 스테이지 위치가 랜덤이 되도록
 	
 	//	보스 관련 변수 저장
@@ -841,7 +842,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 			Print_Map(image.map);
 		else if (boss_map_flag == 1)
 			Print_Map(image.bossmap);
-		Print_Map(image.map);						//  맵 출력
 		Character_Move(&character, &character_history, &character_history_x, &character_history_y, &movement);					//  사용자 키입력 받아서 캐릭터 좌표 계산
 		Print_Character(&character);                //  계산된 캐릭터 좌표에 캐릭터 출력
 		for (i = 0; i < 5; i++)
