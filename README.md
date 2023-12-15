@@ -1,6 +1,7 @@
 # Cproject
 
-# 고급 C 프로그래밍 프로젝트 "Escape From Hell" Game
+# 1학년 2학기 고급 C 프로그래밍 프로젝트
+# Escape From Hell Game
 
 ## 2022204045 최현성
 
@@ -9,6 +10,7 @@
 > ### External Library
 > #### DxLib ver 3.24
 
+- C언어에서 GUI를 사용할 수 있게 해주는 DxLib와 VS를 사용해 개발
 ``` C
 #define _CRT_SECURE_NO_WARNINGS
 
